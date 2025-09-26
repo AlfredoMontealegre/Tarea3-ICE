@@ -1,0 +1,14 @@
+C:\Users\monte\Desktop\Examen1\Ejercicio\obj\Debug\net9.0\Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monte\Desktop\Examen1\Ejercicio\obj\Debug\net9.0\Ejercicio.AssemblyInfoInputs.cache
+C:\Users\monte\Desktop\Examen1\Ejercicio\obj\Debug\net9.0\Ejercicio.AssemblyInfo.cs
+C:\Users\monte\Desktop\Examen1\Ejercicio\obj\Debug\net9.0\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\monte\Desktop\Examen1\ejercicio\bin\Debug\net9.0\Ejercicio.exe
+C:\Users\monte\Desktop\Examen1\ejercicio\bin\Debug\net9.0\Ejercicio.deps.json
+C:\Users\monte\Desktop\Examen1\ejercicio\bin\Debug\net9.0\Ejercicio.runtimeconfig.json
+C:\Users\monte\Desktop\Examen1\ejercicio\bin\Debug\net9.0\Ejercicio.dll
+C:\Users\monte\Desktop\Examen1\ejercicio\bin\Debug\net9.0\Ejercicio.pdb
+C:\Users\monte\Desktop\Examen1\ejercicio\obj\Debug\net9.0\Ejercicio.dll
+C:\Users\monte\Desktop\Examen1\ejercicio\obj\Debug\net9.0\refint\Ejercicio.dll
+C:\Users\monte\Desktop\Examen1\ejercicio\obj\Debug\net9.0\Ejercicio.pdb
+C:\Users\monte\Desktop\Examen1\ejercicio\obj\Debug\net9.0\Ejercicio.genruntimeconfig.cache
+C:\Users\monte\Desktop\Examen1\ejercicio\obj\Debug\net9.0\ref\Ejercicio.dll

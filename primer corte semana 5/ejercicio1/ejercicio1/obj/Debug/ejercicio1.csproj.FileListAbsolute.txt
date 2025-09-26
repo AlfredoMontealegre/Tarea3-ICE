@@ -1,0 +1,7 @@
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\primer corte semana 5\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\primer corte semana 5\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\primer corte semana 5\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\primer corte semana 5\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\primer corte semana 5\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\primer corte semana 5\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\primer corte semana 5\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb

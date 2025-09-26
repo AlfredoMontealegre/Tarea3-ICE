@@ -1,2 +1,5 @@
-# Tarea3-ICE
-Ejercicios post-examen del Examen ICE - Programacion Estructurada
+## Integrantes
+# Blanca Zeledon
+# Andy Rueda
+# Alfredo Montealegre
+# Cristopher Santana
